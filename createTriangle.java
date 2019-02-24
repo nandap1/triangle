@@ -1,7 +1,3 @@
-/*
- * Nanda Pandian
- * CIS 22C
- */
 package createTriangle;
 
 public class createTriangle {
